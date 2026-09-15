@@ -1,4 +1,4 @@
-# Projet : Red Thread (Titre Provisoire)
+# Projet : AMG d'horreur
 
 > Un ARG d'horreur et d'enquête policière interactif.
 
